@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* Barra de navegação */
+nav {
+  background-color: #1c5e39;
+  padding: 10px;
+}
+nav a {
+  color: rgb(247, 245, 245);
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 5px 10px;
+  border: 0px solid rgb(248, 243, 243);
+  border-radius: 5px;
+  transition: 0.3s;
+}
+nav a:hover {
+  background-color: white;
+  color: #1c5e39;
+}
+
+/* Área do conteúdo dinâmico */
+#conteudo {
+  margin-top: 10px;
+  padding: 20px;
+  font-size: 18px;
+  border: 0px solid #1c5e39;
+  display: inline-block;
+  min-width: 300px;
+}
+
+/* Estilo do formulário */
+input, textarea, button {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+  width: 80%;
+  max-width: 300px;
+}
+button {
+  background-color: #1c5e39;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 0px;
+}
+button:hover {
+  background-color: #2d8a55; /* Cor mais clara no hover */
+}
+
+/* Imagens do portfólio */
+#conteudo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
