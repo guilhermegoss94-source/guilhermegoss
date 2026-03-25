@@ -14,10 +14,10 @@ Sou uma pessoa comprometida, proativa e com facilidade para aprender. Gosto de d
 
 Estou motivado a ingressar no mercado de trabalho, aprender com profissionais experientes e agregar valor com dedicação, responsabilidade e vontade de crescer.
 
-Agradeço pela oportunidade e fico à disposição para uma conversa".
+Agradeço pela oportunidade e fico à disposição para uma conversa.
 
 Atenciosamente,
-Guilherme de Góss;
+Guilherme de Góss";
       break;
 
     case "formacao":
